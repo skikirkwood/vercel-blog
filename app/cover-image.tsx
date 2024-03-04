@@ -28,7 +28,7 @@ export default function CoverImage({
   )
 
   return (
-    <div className="sm:mx-0">
+    <div className="sm:mx-0" style="text-align: center;">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}
