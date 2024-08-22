@@ -1,4 +1,4 @@
-# A statically generated blog demo using Contentful and Next.js!
+# A statically generated blog demo using Contentful and Next.js!  
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Contentful](https://www.contentful.com/) as the data source.
 
